@@ -1,4 +1,4 @@
-## The 5 Questions and Answers for PostgreSQL in Bengali
+# PostgreSQL-এর জন্য করা ৫টি প্রশ্ন ও তাদের উত্তর
 
 ### 1. **PostgreSQL কী?**
 
